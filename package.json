@@ -1,0 +1,25 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "18. NoSQL Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dylanbitto/social-network-api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dylanbitto/social-network-api"
+  },
+  "homepage": "https://github.com/Dylanbitto/social-network-api",
+  "dependencies": {
+    "express": "^4.17.2",
+    "moment": "^2.28.0",
+    "mongoose": "^5.13.14"
+  }
+}
